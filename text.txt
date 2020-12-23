@@ -1,0 +1,8 @@
+matan b
+
+this is a maatan file
+looking for the word maatan
+the program should print also matans and
+the program should print also smatans
+and mataan and matans but it shouldn’t
+print the word maaatan
