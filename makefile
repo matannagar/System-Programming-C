@@ -2,9 +2,9 @@ FLAGS = -Wall -g
 CC = gcc
 
 
-all: main
+all: main1
 
-main: frequency.o 
+main1: frequency.o 
 	$(CC) $(FLAGS) frequency.o -o frequency
 
 frequency.o: frequency.c
