@@ -1,0 +1,66 @@
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter amount for deposit: New account number is: 901 
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter amount for deposit: New account number is: 902 
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter account number: Please enter the amount to withdraw: The new balance is: 295.00
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+The balance of account number 901 is: 456.00
+The balance of account number 902 is: 295.00
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter account number: Please enter the amount to withdraw: Cannot withdraw more than the balance
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit

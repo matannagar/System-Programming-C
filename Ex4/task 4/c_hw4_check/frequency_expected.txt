@@ -1,0 +1,10 @@
+age 2
+best 1
+foolishness 1
+it 4
+of 4
+the 4
+times 2
+was 4
+wisdom 1
+worst 1

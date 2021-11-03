@@ -1,0 +1,131 @@
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter amount for deposit: Failed to read the amount
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter account number: Failed to read the account number
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Invalid transaction type
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Invalid transaction type
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Invalid transaction type
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Invalid transaction type
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter amount for deposit: New account number is: 901 
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Please enter interest rate: Failed to read the interest rate
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+The balance of account number 901 is: 300.00
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Invalid transaction type
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
+Invalid transaction type
+
+Please choose a transaction type:
+ O-Open Account
+ B-Balance Inquiry
+ D-Deposit
+ W-Withdrawal
+ C-Close Account
+ I-Interest
+ P-Print
+ E-Exit
